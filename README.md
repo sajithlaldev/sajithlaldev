@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/7cddb0e5-af46-437f-a5e1-0b4d04c21ce8.svg)](https://wakatime.com/@7cddb0e5-af46-437f-a5e1-0b4d04c21ce8)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajithlal.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajithlal-mk) 
